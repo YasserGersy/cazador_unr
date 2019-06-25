@@ -1,8 +1,6 @@
-First :
+ 
 
-"Lazy men write no documentation"
 
-*Jack sparrow*
 
 **This file contains only some notes:** 
 
@@ -46,3 +44,8 @@ First :
 
 [FileMiner]<img src="https://github.com/YasserGersy/cazador_unr/raw/master/imgs/FIleMiner.png"/>  
 [Subscrabber]<img src="https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/imgs/Subscrabber.png" />
+
+
+"Lazy men write no documentation"
+
+*Jack sparrow*
