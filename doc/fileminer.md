@@ -40,7 +40,7 @@ if you tried to unzip/extract An apk file , you will find extracted files like :
 
 *Extracted files*
 
-![ unzipped](https://github.com/cazadorsuite/cazador-fileslooker/blob/master/src/unzipped.png?raw=true)
+![ unzipped](https://github.com/YasserGersy/cazador_unr/blob/master/imgs/fm0.png?raw=true)
 
 
 In this tutorial , we are going to use ApkTool instead for reverse engineering the pk file.
@@ -58,7 +58,7 @@ Where fb.apk  is the target apk file  and it should be in the same directory whe
 
 *running the apktool*
 
-![running the apktool](https://github.com/cazadorsuite/cazador-fileslooker/blob/master/src/cmd.png?raw=true)
+![running the apktool](https://github.com/YasserGersy/cazador_unr/blob/master/imgs/fm1.png?raw=true)
 A new directory will be created with the same apk file name , contains the generated files.
 
 
@@ -70,7 +70,7 @@ Customize your search depending on what you want to collect.
 
 *Finding email addresses*
 
-![The tool looks for any email addresses](https://github.com/cazadorsuite/cazador-fileslooker/blob/master/src/Cazador.png?raw=true)
+![The tool looks for any email addresses](https://github.com/YasserGersy/cazador_unr/blob/master/imgs/fm2.png?raw=true)
 
 
 
@@ -78,7 +78,7 @@ Customize your search depending on what you want to collect.
 
 *Finding urls with specific pattern*
 
-![urls](https://github.com/cazadorsuite/cazador-fileslooker/blob/master/src/urls.png?raw=true)
+![urls](https://github.com/YasserGersy/cazador_unr/blob/master/imgs/fm3.png?raw=true)
 
 
 
@@ -87,7 +87,7 @@ Customize your search depending on what you want to collect.
 
 *You can make use of the other option Manipulator to extract  additional data , for example subdomains*
 
-![subdomains](https://github.com/cazadorsuite/cazador-fileslooker/blob/master/src/subdomains.png?raw=true)
+![subdomains](https://github.com/YasserGersy/cazador_unr/blob/master/imgs/fm4.png?raw=true)
 
 
 
