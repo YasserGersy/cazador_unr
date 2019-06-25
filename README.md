@@ -39,7 +39,8 @@ First :
 - Analyze HTTP Response
 
 
-I mainly use agenda , subscrabber , paramer , file-miner and url-loader and i`m not going to speak about the tools  give it a try.
+
+*Tools discussed separately* [here](https://github.com/YasserGersy/cazador_unr/tree/master/doc) 
 
 #ScreenShots
 
