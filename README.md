@@ -46,6 +46,9 @@
 [Subscrabber]<img src="https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/imgs/Subscrabber.png" />
 
 
+#Virus Scan result
+https://www.virustotal.com/gui/file/0a59af8b6c192e4a8c02eea5d11737defce08adae1fdf4abd5cc50a4554d7a3d/detection
+
 "Lazy men write no documentation"
 
 *Jack sparrow*
