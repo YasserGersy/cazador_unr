@@ -1,6 +1,7 @@
  
 
 
+**if the app is not working proberly , Download this archive dlls.zip  and extract the dll files , put them in application folder , beside the executable file**
 
 **This file contains only some notes:** 
 
