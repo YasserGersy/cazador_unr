@@ -13,7 +13,6 @@
 - Tools starting with _ are not built yet , i added buttons to remmember so i could build them in distant future, hence no need to reverse engineer the tool in order to enable them , if you have time feel free to do it no problem.
 - Many third-parties are used without permitssion no APIS used.
 - The source code is not published because the tool is a beta and the code is uggly and worse than my hand writing.
-- You do not need to report about bugs or crashes  , they will be fixed in later versions if there is a chance.
 - Suggestions are deeply welcome. 
 - Credits are reserved for all authors and third-parties.
 
