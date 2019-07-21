@@ -55,3 +55,8 @@
 - Suggestions are deeply welcome. 
 - Credits are reserved for all authors and third-parties.
 
+
+**Linked IN**
+- https://blog.intigriti.com/2019/07/02/bugbytes-25-to-scan-or-not-to-scan-gotcha-and-live-mentoring-by-zseano/
+- https://pentester.land/newsletter/2019/07/02/the-5-hacking-newsletter-60.html
+- https://securitytraning.com/bugbounty-with-cazador/
