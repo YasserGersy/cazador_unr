@@ -5,19 +5,39 @@
 
 
 **Functions**
+- HTTP/JS-Files/Binary Analyze 
 - Make/Listen to HTTP Requests
+- Get Websites ScreenShots
+- DNS client/Server
 - Get DNS Records
-- GET Subdomains
-- Get ScreenShots
-- Analyze Files
+- GET Subdomains (Scrabbing , Minning , DNS-brute-force,Http-brute-force)
 - Resolve Hosts
 - Reverse IPs
+- Passive DNS
+- DNS History
+- Text Processing (Block construct,Text processing , Format generator , pattern creation)
+- Encoders/Decoders
+- Encrypt/Decrypt data
+- Hash Identification
+- Crackers
+- Payload Generators
+- Poc Generators (Python , bash , HTML)
 - Information Gathering
-- TCP client/Server
 - Detect Misconfiguration 
-- Port scanning
-- Text Processing
-- Analyze HTTP Response
+- Port/vulnerability/ssl scanner
+- Download Android apps (APK)
+- TCP client/Server
+- Analyze Files (Binary , Metadata, Text files, Js sinks) 
+- Waf Detection
+- Site categorizer 
+- Vulnerability Exploiters
+
+
+
+
+
+
+
 
 
 
