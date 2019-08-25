@@ -31,6 +31,8 @@
 - Waf Detection
 - Site categorizer 
 - Vulnerability Exploiters
+- s3 bucket enumeration 
+- Travis-CI logs fetching
 
 
 
