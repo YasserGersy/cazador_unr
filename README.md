@@ -4,45 +4,55 @@
 
 
 
-**Functions**
+# Tools
+
+*Listeners*
+- HTTP Server
+- DNS Server
+- TCP Server
+- POSTMessage Hooker
+- Websocket Hooker
+
+*Analysiz*
 - HTTP/JS-Files/Binary Analyze 
-- Make/Listen to HTTP Requests
-- Get Websites ScreenShots
-- DNS client/Server
+- Analyze Files (Binary , Metadata, Text files, Js sinks) 
+
+*Net Tools*
 - Get DNS Records
-- GET Subdomains (Scrabbing , Minning , DNS-brute-force,Http-brute-force)
 - Resolve Hosts
 - Reverse IPs
 - Passive DNS
-- DNS History
-- Text Processing (Block construct,Text processing , Format generator , pattern creation)
-- Encoders/Decoders
+- DNS History 
+
+*Text Tools*
+- Text Processing 
+- Block construct
+- Format generator
+- pattern creation
 - Encrypt/Decrypt data
 - Hash Identification
 - Crackers
 - Payload Generators
+- Encoders/Decoders
 - Poc Generators (Python , bash , HTML)
-- Information Gathering
+
+*Recon*
+- Get Websites ScreenShots
+- GET Subdomains (Scrabbing , Minning , DNS-brute-force,Http-brute-force)
+ - Site categorizer 
+- s3 bucket enumeration 
+
+ *Scanners*
 - Detect Misconfiguration 
 - Port/vulnerability/ssl scanner
-- Download Android apps (APK)
-- TCP client/Server
-- Analyze Files (Binary , Metadata, Text files, Js sinks) 
-- Waf Detection
-- Site categorizer 
 - Vulnerability Exploiters
-- s3 bucket enumeration 
+- Waf Detection
+
+*Scrabbers*
+- Download Android apps (APK)
 - Travis-CI logs fetching
 
-
-
-
-
-
-
-
-
-
+ 
 *Tools discussed separately* [here](https://github.com/YasserGersy/cazador_unr/tree/master/doc) 
 
  <a href="/imgs" >ScreenShots </a>
