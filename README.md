@@ -52,6 +52,11 @@
 - Download Android apps (APK)
 - Travis-CI logs fetching
 
+*POC*
+- Python scripts (Login , dumper)
+- HTML ( csrf , postMessageexploits , Cors exploit)
+- curl commands
+- ScreenShots
  
 *Tools discussed separately* [here](https://github.com/YasserGersy/cazador_unr/tree/master/doc) 
 
