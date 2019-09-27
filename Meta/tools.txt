@@ -1,4 +1,4 @@
-_Strings
+Strings
 DataViewer
 FileMiner
 _Tokener
@@ -7,10 +7,16 @@ Sniffer
 _AllPageSourceViewer
 UrlLoader
 ApkGetter
+BashShellShock
+IIS_CVE_2015_1635
+Jenkins_CVE_2016_0792
+Jira_CVE_2017_9506
 Rails_CVE_2015_3224
 struts_s2_052
 struts_s2_045
 Werkzeug_Debug
+MongoLooker
+DomainTakeOver
 _WebSocketHooker
 S3BucketChecker
 Struts_DevMode
@@ -22,6 +28,8 @@ ConnectedWebsites
 WhoRedirectsTo
 TravisLogsFetcher
 GithubOrgLister
+GCBucketChecker
+Form2Json
 _Md5Cracker
 _HashIdentifer
 _Base64Cracker
