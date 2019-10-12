@@ -1,11 +1,12 @@
-Jira_CVE_2017_9506
 Jira_CVE_2019_11581
-Struts_CVE-2017_5638 , Struts_s2_045
+Jira_CVE_2017_9506
 Struts_CVE-2017_9805 , Struts_s2_052
-Struts_Dev_mode
-Rails_CVE_2015_3224
+Struts_CVE-2017_5638 , Struts_s2_045
 HTTPOXY_CVE_2016_5386
 Jenkins_CVE_2016_0792
-Werkzeug_Debug
+Rails_CVE_2015_3224
 IIS_CVE_2015_1635 
+Jetty_cve_2015_2080
 Bash_CVE_2014_6271
+Struts_Dev_mode
+Werkzeug_Debug
