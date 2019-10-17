@@ -1,3 +1,4 @@
 travis-ci.org
 api.hunter.io
-api.github.com.Token
+api.github.com
+api.fastly.com
