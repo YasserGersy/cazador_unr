@@ -69,7 +69,7 @@
 <a href="https://www.virustotal.com/gui/file/0a59af8b6c192e4a8c02eea5d11737defce08adae1fdf4abd5cc50a4554d7a3d/detection" >virustotal Scan result</a>
 
 
-**if the app is not working proberly , Download this archive dlls.zip  and extract the dll files , put them in application folder , beside the executable file**
+**if the app is not working proberly , Download the missing dlls, put them in application folder , beside the executable file**
 
 **Some notes:** 
 
