@@ -1,1 +1,1 @@
-Librararies source code will be here
+Libraries source code will be here
