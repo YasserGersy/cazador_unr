@@ -12,9 +12,12 @@ CazadorApp itself does not contain any tools , however the built plugins contain
 - POSTMessage Hooker
 - Websocket Hooker
 
-*Analysiz*
-- HTTP/JS-Files/Binary Analyze 
-- Analyze Files (Binary , Metadata, Text files, Js sinks) 
+*Analyzers*
+- HTTP
+- JS-Files
+- FileSystem
+- Binary
+- Packet
 
 *Net Tools*
 - Get DNS Records
