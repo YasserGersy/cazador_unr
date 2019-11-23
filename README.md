@@ -1,3 +1,12 @@
+![alt tag](https://github.com/YasserGersy/cazador_unr/blob/master/imgs/cazador.png?raw=true)
+
+[![GitHub issues](https://img.shields.io/github/issues/YasserGersy/cazador_unr.svg)](https://github.com/YasserGersy/cazador_unr/issues) 
+[![Github Stars](https://img.shields.io/github/stars/YasserGersy/cazador_unr.svg?style=social&label=Stars)](https://github.com/YasserGersy/cazador_unr/) 
+[![GitHub Followers](https://img.shields.io/github/followers/YasserGersy.svg?style=social&label=Follow)](https://github.com/YasserGersy/cazador_unr/)
+[![Tweet](https://img.shields.io/twitter/url/http/YasserGersy.svg?style=social)](https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fdeveloper.twitter.com%2Fen%2Fdocs%2Ftwitter-for-websites%2Ftweet-button%2Foverview&ref_src=twsrc%5Etfw&text=Cazador%20-%20Automated%20Pentest%20Recon%20Scanner&tw_p=tweetbutton&url=https%3A%2F%2Fgithub.com%2FYasserGersy%2Fcazador_unr)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/YasserGersy.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=YasserGersy)
+
+
 **Cazador**
 
 CazadorApp itself does not contain any tools , however the built plugins contain the following :
