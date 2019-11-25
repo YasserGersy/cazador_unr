@@ -1,5 +1,6 @@
-![alt tag](https://github.com/YasserGersy/cazador_unr/blob/master/imgs/cazador.png?raw=true)
 
+![alt tag](https://github.com/YasserGersy/cazador_unr/blob/master/imgs/cazador.png?raw=true)
+[![Gitter](https://badges.gitter.im/cazadorapp/community.svg)](https://gitter.im/cazadorapp/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![GitHub issues](https://img.shields.io/github/issues/YasserGersy/cazador_unr.svg)](https://github.com/YasserGersy/cazador_unr/issues) 
 [![Github Stars](https://img.shields.io/github/stars/YasserGersy/cazador_unr.svg?style=social&label=Stars)](https://github.com/YasserGersy/cazador_unr/) 
 [![GitHub Followers](https://img.shields.io/github/followers/YasserGersy.svg?style=social&label=Follow)](https://github.com/YasserGersy/cazador_unr/)
