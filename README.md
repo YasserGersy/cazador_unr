@@ -73,7 +73,7 @@ CazadorApp itself does not contain any tools , however the built plugins contain
 
 
 
-[Dig]<img src="https://github.com/YasserGersy/cazador_unr/raw/master/imgs/Dig0.png"/>
+<!-- [Dig] <img src="https://github.com/YasserGersy/cazador_unr/raw/master/imgs/Dig0.png"/> -->
 [scanner]<img src="https://github.com/YasserGersy/cazador_unr/blob/master/imgs/scanner0.png" />
 [TcpListener]<img src="https://github.com/YasserGersy/cazador_unr/blob/master/imgs/tcplistener3.png"/>  
 [FileMiner]<img src="https://github.com/YasserGersy/cazador_unr/raw/master/imgs/FIleMiner.png"/>  
