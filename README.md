@@ -91,17 +91,15 @@ CazadorApp itself does not contain any tools , however the built plugins contain
 
 - This tool is meant primarily for bug hunnters (specially beginers).
 - This tool is not backdoored with any malicious software/tracking .
-- This tool contains bugs more than features so use it carefully.
-- Connections are issued using  the .Net (SystemDotWeb) which is  slow and limited by design , consider using many threads, this will be replaced with another solution.
-- Memory is not carefully managed so be carefull , do not use all the tools at the same time.
+- Memory is not carefully managed so be carefull , do not use all the tools at the same time , Consider to make targets and  threads less than 1000.
 - Do not use it illegally 
-- Tools starting with _ are not built yet , i added buttons to remmember writing them so i could build them in  future, hence no need to reverse engineer the tool in order to enable them , if you have time feel free to do it no problem.
+- Tools starting with _ are not built yet , i added buttons to remmember building  in  future, hence no need to reverse engineer the tool in order to enable them , if you have time feel free to do it no problem.
 - Many third-parties are used without permitssion no APIS used.
 - The source code is not published because the tool is a beta and the code is uggly and worse than my hand writing.
 - Project is planned to be open-source with the first release.
 - Suggestions are deeply welcome. 
 - Credits are reserved for all authors and third-parties.
-
+- Feel free to push any issue
 
 **Linked IN**
 - https://blog.intigriti.com/2019/07/02/bugbytes-25-to-scan-or-not-to-scan-gotcha-and-live-mentoring-by-zseano/
