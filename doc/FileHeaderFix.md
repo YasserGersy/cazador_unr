@@ -91,7 +91,7 @@ The next step is to pre-append the Gzip magic Bytes  ` 0x1f, 0x8b, 0x08, 0x00, 0
 Now we can decompress the data using 
 ![Solved](https://github.com/YasserGersy/cazador_unr/blob/master/imgs/Solvedptlabssrfpdf.png?raw=true)
 
-Supposing you 
+
 
 **Ref**
  - https://en.wikipedia.org/wiki/List_of_file_signatures
