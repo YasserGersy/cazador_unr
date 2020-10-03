@@ -1,19 +1,19 @@
 # How to fix broken binary files
 
 
-Hello in this tutorial , i am going to show you how to fix broken  which do not have magic bytes.
+Hello in this tutorial , i am going to show you how to fix broken binary files  which do not have magic bytes.
 
-Suupose you have a pdf file , when you open it your , your pdf viewer can not parse it 
+Suupose you have a pdf file , when you open it  , your pdf viewer can not parse it 
 
 ![Damaged pdf file](https://github.com/YasserGersy/cazador_unr/raw/master/imgs/damaged.pdf.file.PNG?raw=true)
 
 
-if the reason is the missing magic bytes , the solution is simple , you just need to add the probber magic bytes.
+if the failure  is due to the missing magic bytes , the solution is simple , you just need to add the probber magic bytes to the beggining of the file.
 
-if you searched , you would find that pdf header bytes are :  "%PDF-1.7" according to https://en.wikipedia.org/wiki/PDF
+if you searched , you would find that pdf header bytes are :  "%PDF-" according to https://en.wikipedia.org/wiki/PDF
 
 
-Converting   to the hexadecimal value :
+Converting the signature   to the hexadecimal value :
 
 ```
 %PDF-
@@ -31,7 +31,7 @@ OR
 
 
 ```
-In linux you can use :
+You can use any signature , In unix you can use :
 
 ```
 printf "25\x50\x44\x46\x2d\x31\x2e\x35" | cat - oldfile.pdf > newfile.pdf
@@ -46,6 +46,8 @@ In windows you can use cazador plugins
 Opening the new file
 
 ![Works](https://github.com/YasserGersy/cazador_unr/raw/master/imgs/fixed.pdf.file.PNG?raw=true)
+
+File is now Fixed :D
 
 
 # Solving PentesterLab pdf_ssrf
@@ -70,13 +72,13 @@ In order to recover the content of the file, you will then need to inspect the c
 
 When you exploit the vulnerabilit and trigger the ssrf , the application will read your requested file , compress it and add to  the generated pdf.
 
-For PDF embeded files , the data will be looks like :
+For PDF embeded files , the data will  look like :
 
 ```
 embeddedFile blahblahblah STREAM gzip-Compressed-Data ENDSTREAM
 ```
 
-We are interested in the data between `STREAM` and `ENDSTREAM` , you can use any hex editor to extract this data , and save it to a file.
+We are interested in the data between `STREAM` and `ENDSTREAM` , you can use any hex editor to extract the data , and save it to a file (eg 01Editor).
 
   
 
@@ -88,7 +90,7 @@ The next step is to pre-append the Gzip magic Bytes  ` 0x1f, 0x8b, 0x08, 0x00, 0
 
 ![Adding bytes](https://github.com/YasserGersy/cazador_unr/blob/master/imgs/Addgzipbytes.PNG?raw=true)
 
-Now we can decompress the data using 
+Now we can decompress the data via 
 ![Solved](https://github.com/YasserGersy/cazador_unr/blob/master/imgs/Solvedptlabssrfpdf.png?raw=true)
 
 
