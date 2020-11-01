@@ -2,7 +2,7 @@
 
 	"StoreName":"Default",
 	"StoreLocalName":"store.json",
-	"StoreMD5":"",
+	"StoreMD5":"b29ebba9e357cd5e2a71660e96d96b76",
 	"StoreCategories":["plugins","libs","Apps"],
 	"StoreVersion":1,
 	"StoreLink":"https://google.com",
@@ -877,6 +877,7 @@
 			 
 			
 			
+			
 			{
 				"ObjectName":"ListsGenerator.exe",
 				"ObjectMD5":"9c2bff16c0fa82744fe708b10e48de8f",
@@ -886,7 +887,7 @@
 				"ObjectCategory":"Apps",
 				"ObjectDetail":"",
 				"ObjectRating":"6",
-				objectPopularity:6
+				objectPopularity:"6"
 			},
 			{
 				"ObjectName":"CazadorApp.exe",
@@ -897,9 +898,8 @@
 				"ObjectCategory":"Apps",
 				"ObjectDetail":"",
 				"ObjectRating":"6",
-				objectPopularity:6
-			}
-			,
+				objectPopularity:"6"
+			},
 			{
 				"ObjectName":"CazLib.dll",
 				"ObjectMD5":"46fa0a62c66bc697d7f799db99ace2b9",
@@ -908,8 +908,105 @@
 				"ObjectLocalName":"CazLib.dll",
 				"ObjectCategory":"libs",
 				"ObjectDetail":"",
-				"ObjectRating":"6",
-				objectPopularity:6
+				"ObjectRating":"0",
+				objectPopularity:"0"
+			},
+			{
+				"ObjectName":"PacketDotNet.dll",
+				"ObjectMD5":"2c22660fcfda65cdedc1eccfe66e1680",
+				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/PacketDotNet.dll",
+				"ObjectVersion":1,
+				"ObjectLocalName":"PacketDotNet.dll",
+				"ObjectCategory":"libs",
+				"ObjectDetail":"",
+				"ObjectRating":"0",
+				objectPopularity:"0"
+			},
+			{
+				"ObjectName":"SharpPcap.dll",
+				"ObjectMD5":"5d18b2d9afe365f4e0de3ed4f5b0a030",
+				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/SharpPcap.dll",
+				"ObjectVersion":1,
+				"ObjectLocalName":"SharpPcap.dll",
+				"ObjectCategory":"libs",
+				"ObjectDetail":"",
+				"ObjectRating":"0",
+				objectPopularity:"0"
+			},
+			{
+				"ObjectName":"SnmpSharpNet.dll",
+				"ObjectMD5":"c9217b4fc057c99ef0b1c603de094a30",
+				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/SnmpSharpNet.dll",
+				"ObjectVersion":1,
+				"ObjectLocalName":"SnmpSharpNet.dll",
+				"ObjectCategory":"libs",
+				"ObjectDetail":"",
+				"ObjectRating":"0",
+				objectPopularity:"0"
+			},
+			{
+				"ObjectName":"CazGuiLib.dll",
+				"ObjectMD5":"1223d8378fa78347775b4f460426f624",
+				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/CazGuiLib.dll",
+				"ObjectVersion":1,
+				"ObjectLocalName":"CazGuiLib.dll",
+				"ObjectCategory":"Libs",
+				"ObjectDetail":"",
+				"ObjectRating":"0",
+				objectPopularity:"0"
 			}
+			,
+			
+			{
+				"ObjectName":"Newtonsoft.Json.dll",
+				"ObjectMD5":"e1f41034e6894d9d23a6db2a6e5b0dfc",
+				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Newtonsoft.Json.dll",
+				"ObjectVersion":1,
+				"ObjectLocalName":"Newtonsoft.Json.dll",
+				"ObjectCategory":"Libs",
+				"ObjectDetail":"",
+				"ObjectRating":"0",
+				objectPopularity:"0"
+			}
+			,
+			
+			{
+				"ObjectName":"jose-jwt.dll",
+				"ObjectMD5":"de928cb5ebb8b5604f31a3e4b9b54f0e",
+				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/jose-jwt.dll",
+				"ObjectVersion":1,
+				"ObjectLocalName":"jose-jwt.dll",
+				"ObjectCategory":"Libs",
+				"ObjectDetail":"",
+				"ObjectRating":"0",
+				objectPopularity:"0"
+			},
+			
+			{
+				"ObjectName":"CazGuiLib.dll",
+				"ObjectMD5":"1223d8378fa78347775b4f460426f624",
+				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/CazGuiLib.dll",
+				"ObjectVersion":1,
+				"ObjectLocalName":"CazGuiLib.dll",
+				"ObjectCategory":"Libs",
+				"ObjectDetail":"",
+				"ObjectRating":"0",
+				objectPopularity:"0"
+			}
+			
+			,
+			
+			{
+				"ObjectName":"ARSoft.Tools.Net.dll",
+				"ObjectMD5":"939df139496ef2523caf86810a06d321",
+				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/ARSoft.Tools.Net.dll",
+				"ObjectVersion":1,
+				"ObjectLocalName":"ARSoft.Tools.Net.dll",
+				"ObjectCategory":"Libs",
+				"ObjectDetail":"",
+				"ObjectRating":"0",
+				objectPopularity:"0"
+			}
+			
 		]
 }
