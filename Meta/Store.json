@@ -1,17 +1,13 @@
 {
-
 	"StoreName":"Default",
 	"StoreLocalName":"store.json",
-	"StoreMD5":"3e599e1a0cea4f03a3b7c573e417ab5c",
+	"StoreMD5":"add3a6efa3743f73df88f38b3da2fffc",
 	"StoreCategories":["plugins","libs","Apps"],
 	"StoreVersion":1,
 	"StoreLink":"https://google.com",
 	"Storeobjects":
 		[
-			
-  
-
-                {
+				{
 				"ObjectName":"Agenda",
 				"ObjectMD5":"30bdb02372c1a514aa9f1c36a7a350e3",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/Agenda.plugin.dll",
@@ -887,7 +883,7 @@
 				"ObjectCategory":"Apps",
 				"ObjectDetail":"",
 				"ObjectRating":"6",
-				objectPopularity:"6"
+				"objectPopularity":"6"
 			},
 			{
 				"ObjectName":"CazadorApp.exe",
@@ -898,7 +894,7 @@
 				"ObjectCategory":"Apps",
 				"ObjectDetail":"",
 				"ObjectRating":"6",
-				objectPopularity:"6"
+				"objectPopularity":"6"
 			},
 			{
 				"ObjectName":"CazLib.dll",
@@ -909,7 +905,7 @@
 				"ObjectCategory":"libs",
 				"ObjectDetail":"",
 				"ObjectRating":"0",
-				objectPopularity:"0"
+				"objectPopularity":"0"
 			},
 			{
 				"ObjectName":"CazGuiLib.dll",
@@ -920,7 +916,7 @@
 				"ObjectCategory":"Libs",
 				"ObjectDetail":"",
 				"ObjectRating":"0",
-				objectPopularity:"0"
+				"objectPopularity":"0"
 			}
 			,
 			{
@@ -932,7 +928,7 @@
 				"ObjectCategory":"libs",
 				"ObjectDetail":"",
 				"ObjectRating":"0",
-				objectPopularity:"0"
+				"objectPopularity":"0"
 			},
 			{
 				"ObjectName":"SharpPcap.dll",
@@ -943,7 +939,7 @@
 				"ObjectCategory":"libs",
 				"ObjectDetail":"",
 				"ObjectRating":"0",
-				objectPopularity:"0"
+				"objectPopularity":"0"
 			},
 			{
 				"ObjectName":"SnmpSharpNet.dll",
@@ -954,7 +950,7 @@
 				"ObjectCategory":"libs",
 				"ObjectDetail":"",
 				"ObjectRating":"0",
-				objectPopularity:"0"
+				"objectPopularity":"0"
 			},
 			
 			
@@ -967,7 +963,7 @@
 				"ObjectCategory":"Libs",
 				"ObjectDetail":"",
 				"ObjectRating":"0",
-				objectPopularity:"0"
+				"objectPopularity":"0"
 			}
 			,
 			
@@ -980,7 +976,7 @@
 				"ObjectCategory":"Libs",
 				"ObjectDetail":"",
 				"ObjectRating":"0",
-				objectPopularity:"0"
+				"objectPopularity":"0"
 			},
 			
 			{
@@ -992,7 +988,7 @@
 				"ObjectCategory":"Libs",
 				"ObjectDetail":"",
 				"ObjectRating":"0",
-				objectPopularity:"0"
+				"objectPopularity":"0"
 			}
 			
 		]
