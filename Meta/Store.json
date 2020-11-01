@@ -1,10 +1,10 @@
 {
 	"StoreName":"Default",
 	"StoreLocalName":"store.json",
-	"StoreMD5":"add3a6efa3743f73df88f38b3da2fffc",
+	"StoreMD5":"33cb25f27e38bb0596875f1eb9267a51",
 	"StoreCategories":["plugins","libs","Apps"],
 	"StoreVersion":1,
-	"StoreLink":"https://google.com",
+	"StoreLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Meta/Store.json",
 	"Storeobjects":
 		[
 				{
