@@ -8,6 +8,7 @@
 	"Storeobjects":
 		[
 		
+                 
                 
 				{"ObjectName":"Agenda",
 				"ObjectMD5":"4a868290d6edfca9e9b1733776c076a8",
@@ -740,7 +741,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"CazadorApp",
-				"ObjectMD5":"60089c9cc4f4c58b8f9a0529706f1dc5",
+				"ObjectMD5":"a09a6d66ec8cd205fae3acbe37ff0333",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/CazadorApp.exe",
 				"ObjectAssemblyVersion":"1.0.0.*",
 				"ObjectLocalName":"CazadorApp.exe",
@@ -749,8 +750,28 @@
 				"ObjectRating":"0",
 				"objectPopularity":"0"},
                 
+				{"ObjectName":"launcher",
+				"ObjectMD5":"49b9b6aab28e3629a55f608852670745",
+				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/launcher.exe",
+				"ObjectAssemblyVersion":"1.0.0.0",
+				"ObjectLocalName":"launcher.exe",
+				"ObjectCategory":"Apps",
+				"ObjectDetail":"",
+				"ObjectRating":"0",
+				"objectPopularity":"0"},
+                
+				{"ObjectName":"ListsGenerator",
+				"ObjectMD5":"9c2bff16c0fa82744fe708b10e48de8f",
+				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/ListsGenerator.exe",
+				"ObjectAssemblyVersion":"2.2.6.1",
+				"ObjectLocalName":"ListsGenerator.exe",
+				"ObjectCategory":"Apps",
+				"ObjectDetail":"",
+				"ObjectRating":"0",
+				"objectPopularity":"0"},
+                
 				{"ObjectName":"CazGuiLib",
-				"ObjectMD5":"65d3a58966fbc78ba5264aee49bb1f7b",
+				"ObjectMD5":"5d086abc1efff1017d89cd4342e4f3a9",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/CazGuiLib.dll",
 				"ObjectAssemblyVersion":"1.0.0.11",
 				"ObjectLocalName":"CazGuiLib.dll",
@@ -760,7 +781,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"CazLib",
-				"ObjectMD5":"475ef72e2a21eedd3f7da61cf381b151",
+				"ObjectMD5":"c33857d823405fe93c9b0e24f4cd05af",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/CazLib.dll",
 				"ObjectAssemblyVersion":"1.0.0.1",
 				"ObjectLocalName":"CazLib.dll",
@@ -827,8 +848,7 @@
 				"ObjectCategory":"Dlls",
 				"ObjectDetail":"",
 				"ObjectRating":"0",
-				"objectPopularity":"0"},		 
-		 
+				"objectPopularity":"0"}
 			
 		]
 }
