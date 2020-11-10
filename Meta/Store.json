@@ -8,10 +8,10 @@
 	"Storeobjects":
 		[
 		
-                 
+                  
                 
 				{"ObjectName":"Agenda",
-				"ObjectMD5":"321a1e9b4ed04f1de4b6c942bc453149",
+				"ObjectMD5":"790dc6f777d423b4d5dd7da9bae43c0d",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/Agenda.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.*",
 				"ObjectLocalName":"Plugins/Agenda.plugin.dll",
@@ -21,7 +21,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"ApkGetter",
-				"ObjectMD5":"a8dbf97d24f84666da162bfc2393f15c",
+				"ObjectMD5":"1411366b8ed3d9333161576065c248e3",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/ApkGetter.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/ApkGetter.plugin.dll",
@@ -31,7 +31,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"Automator",
-				"ObjectMD5":"fc11d0262044a25c9eae26f6e6db690b",
+				"ObjectMD5":"0095e509c05e2e5fb9d3710621935dac",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/Automator.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.0",
 				"ObjectLocalName":"Plugins/Automator.plugin.dll",
@@ -40,18 +40,8 @@
 				"ObjectRating":"0",
 				"objectPopularity":"0"},
                 
-				{"ObjectName":"BugBountyTools",
-				"ObjectMD5":"1622e69493d14d1ac4183839b19107bd",
-				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/BugBountyTools.plugin.dll",
-				"ObjectAssemblyVersion":"1.0.0.0",
-				"ObjectLocalName":"Plugins/BugBountyTools.plugin.dll",
-				"ObjectCategory":"Plugins",
-				"ObjectDetail":"CazadorPlugins",
-				"ObjectRating":"0",
-				"objectPopularity":"0"},
-                
 				{"ObjectName":"CollectionTools",
-				"ObjectMD5":"31a4d4cc44f114eb1ca8011e5070e15e",
+				"ObjectMD5":"3274ed57fb4a4dd3e0c88c8996a3856e",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/CollectionTools.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.*",
 				"ObjectLocalName":"Plugins/CollectionTools.plugin.dll",
@@ -61,7 +51,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"ConcSites",
-				"ObjectMD5":"3ed8cc1ba7fbd09c68c8fa3de656efd0",
+				"ObjectMD5":"32da90c8638e33509049e7cd048418e5",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/ConcSites.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/ConcSites.plugin.dll",
@@ -71,7 +61,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"Constructor",
-				"ObjectMD5":"8858cc0bac1dae718f9149d47f5e0048",
+				"ObjectMD5":"c503c2dae3414ae687c62b68a2239672",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/Constructor.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/Constructor.plugin.dll",
@@ -81,7 +71,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"CookieUtility",
-				"ObjectMD5":"01891d6ad025300182f9b5cbe4b995ff",
+				"ObjectMD5":"85c722590aa2af881e35afd5588000a7",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/CookieUtility.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/CookieUtility.plugin.dll",
@@ -91,7 +81,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"corscanner",
-				"ObjectMD5":"c2d2a8cf765f922193aee1b234e27ed1",
+				"ObjectMD5":"dfbe295a815d0590fecdd18fa671e2ed",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/corscanner.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.0",
 				"ObjectLocalName":"Plugins/corscanner.plugin.dll",
@@ -101,7 +91,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"Dcomp",
-				"ObjectMD5":"94e09b81bdbf09586d617db923f20b8c",
+				"ObjectMD5":"9f5ed41aac43e34e6f4ecb71793c9101",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/Dcomp.Plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.0",
 				"ObjectLocalName":"Plugins/Dcomp.Plugin.dll",
@@ -111,7 +101,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"Decoder",
-				"ObjectMD5":"40aaa6277f45830e566c4806f019f1eb",
+				"ObjectMD5":"619a4253aac57deb29434577cf725d20",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/Decoder.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/Decoder.plugin.dll",
@@ -121,7 +111,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"dirlist",
-				"ObjectMD5":"375ee15c739648504f09fdd4616e367d",
+				"ObjectMD5":"23476477c71df2d6974ee0cac5a8b7f1",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/dirlist.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/dirlist.plugin.dll",
@@ -131,7 +121,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"DllExplorer",
-				"ObjectMD5":"2226b6aa0fee7c57445502ed32fbb913",
+				"ObjectMD5":"dd55aac276aef891ac047139627ed361",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/DllExplorer.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/DllExplorer.plugin.dll",
@@ -141,7 +131,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"DnsLookUp",
-				"ObjectMD5":"ac58c46d30123e7a70b0e27ba813c944",
+				"ObjectMD5":"20c68679437da434436e3de9590a2bea",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/DnsLookUp.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/DnsLookUp.plugin.dll",
@@ -151,7 +141,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"domainfilter",
-				"ObjectMD5":"563daf237237428a379dae91063e429b",
+				"ObjectMD5":"02957f48533315c6f72db209f001aa6c",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/domainfilter.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.*",
 				"ObjectLocalName":"Plugins/domainfilter.plugin.dll",
@@ -161,7 +151,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"Domaintakeover",
-				"ObjectMD5":"2d5cc43b18589d197436f57930c00bd4",
+				"ObjectMD5":"d0b073595d51d5f6cef4e3e28be7e15e",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/Domaintakeover.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/Domaintakeover.plugin.dll",
@@ -171,7 +161,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"EmailHunt",
-				"ObjectMD5":"320516f26890165cb2a96da9200b1cf8",
+				"ObjectMD5":"b036dbd138bda7ecd1d9598b45f1c751",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/EmailHunt.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/EmailHunt.plugin.dll",
@@ -181,7 +171,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"Executor",
-				"ObjectMD5":"93908a749e94e145b1c907699dc1cd52",
+				"ObjectMD5":"f4694ff16421accbfdb7dc0eb917e23b",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/Executor.Plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.0",
 				"ObjectLocalName":"Plugins/Executor.Plugin.dll",
@@ -191,7 +181,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"FileMiner",
-				"ObjectMD5":"c8060312f2d2eadbc3c3b74e3bbd2854",
+				"ObjectMD5":"66c94ef1a4ee9510db7e217cfd0627f0",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/FileMiner.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/FileMiner.plugin.dll",
@@ -201,7 +191,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"Finder",
-				"ObjectMD5":"dc0fb1365fd955756c1414c8e74d1649",
+				"ObjectMD5":"4668e18a59ba77438e4ee8760876dda7",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/Finder.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/Finder.plugin.dll",
@@ -211,7 +201,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"FormUtility",
-				"ObjectMD5":"3634d36fb7d55795f52d3551578bacc6",
+				"ObjectMD5":"5ed96675a86d360b77f12fb545d91339",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/FormUtility.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/FormUtility.plugin.dll",
@@ -221,7 +211,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"GcBucketCheck",
-				"ObjectMD5":"71a98c8dc2d4787eb90ad607c2d4a8f3",
+				"ObjectMD5":"05f30f97c9e17f93e46057247a3c854b",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/GcBucketCheck.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/GcBucketCheck.plugin.dll",
@@ -231,7 +221,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"GithubGistLister",
-				"ObjectMD5":"cfbd1a3af0197c38a1293eb4f338eab6",
+				"ObjectMD5":"de51d3cad8d16dbd5814ee53cab666f6",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/GithubGistLister.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/GithubGistLister.plugin.dll",
@@ -241,7 +231,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"GitHubListMembers",
-				"ObjectMD5":"b7d4cf7bb2f5c411effd107bcce13696",
+				"ObjectMD5":"2a2422092cb2aef074aaf2348ec622ad",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/GitHubListMembers.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/GitHubListMembers.plugin.dll",
@@ -250,18 +240,8 @@
 				"ObjectRating":"0",
 				"objectPopularity":"0"},
                 
-				{"ObjectName":"hackerone",
-				"ObjectMD5":"9c9f9ba199a62a517a8e22ee12a8943a",
-				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/hackerone.plugin.dll",
-				"ObjectAssemblyVersion":"1.0.0.2",
-				"ObjectLocalName":"Plugins/hackerone.plugin.dll",
-				"ObjectCategory":"Plugins",
-				"ObjectDetail":"CazadorPlugins",
-				"ObjectRating":"0",
-				"objectPopularity":"0"},
-                
 				{"ObjectName":"headercompare",
-				"ObjectMD5":"61b9bfcb72bd5758f09364f147e5b0df",
+				"ObjectMD5":"54c6c3ef1a55bb8274ba4fceacd709e9",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/headercompare.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/headercompare.plugin.dll",
@@ -271,7 +251,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"httpinger",
-				"ObjectMD5":"aa453a462b9382ab7ec2cde797e971c6",
+				"ObjectMD5":"3a202534966bba0e6753f0e8f12564a5",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/httpinger.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/httpinger.plugin.dll",
@@ -281,7 +261,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"httprview",
-				"ObjectMD5":"bbbd9289a5fb87dce8fefa953783acf3",
+				"ObjectMD5":"1652ea3f9e42610dae04c06003764825",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/httprview.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/httprview.plugin.dll",
@@ -301,7 +281,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"httpsrver",
-				"ObjectMD5":"65f03a0545aab4c4afc7c425b669e2d0",
+				"ObjectMD5":"706cfee7cbda5aa60c24dc2796f21e24",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/httpsrver.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/httpsrver.plugin.dll",
@@ -311,7 +291,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"IMAGETRAGICK",
-				"ObjectMD5":"0be9fab82af4d6497efdf3b96b12cdbf",
+				"ObjectMD5":"96d34e307823eee4b597a10a87615232",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/IMAGETRAGICK.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/IMAGETRAGICK.plugin.dll",
@@ -321,7 +301,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"Interactors",
-				"ObjectMD5":"cd883064152fd4c0c3f1f8c1e37e014c",
+				"ObjectMD5":"4ee9f9c8942c632c117031e930a900b6",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/Interactors.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/Interactors.plugin.dll",
@@ -331,7 +311,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"IPHistory",
-				"ObjectMD5":"43481357e30be00719ac669d3f76ed41",
+				"ObjectMD5":"84aaa3b20768110da5a9ea7e0c226ec1",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/IPHistory.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/IPHistory.plugin.dll",
@@ -341,7 +321,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"IPReverse",
-				"ObjectMD5":"c0ab68a51888ff8306e2091f2de03e39",
+				"ObjectMD5":"28fe61bbcf9bb7e465628768b8f93b69",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/IPReverse.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/IPReverse.plugin.dll",
@@ -351,7 +331,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"JavaScriptCharCoder",
-				"ObjectMD5":"35916f07ca4c71a1b0cdcf516b0d33ce",
+				"ObjectMD5":"c4b4608027f1169f57ee1e45df43b325",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/JavaScriptCharCoder.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/JavaScriptCharCoder.plugin.dll",
@@ -361,7 +341,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"jenklooker",
-				"ObjectMD5":"63ca493bb2cee847ee388bd11448e4ef",
+				"ObjectMD5":"6c1374406ae94ed9ae69a26bd7509dce",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/jenklooker.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/jenklooker.plugin.dll",
@@ -371,7 +351,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"jsdump",
-				"ObjectMD5":"cb133dacb7e5fee265528e46352baa84",
+				"ObjectMD5":"a7e02ec6b1589240ed0f9d08501f8cae",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/jsdump.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/jsdump.plugin.dll",
@@ -381,7 +361,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"LinuxPasswd",
-				"ObjectMD5":"0c2ff487f5722ae1b1e521f8acbb3545",
+				"ObjectMD5":"6f89a5c27745a1ab6ba58f47f955c30d",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/LinuxPasswd.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/LinuxPasswd.plugin.dll",
@@ -391,7 +371,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"mongolooker",
-				"ObjectMD5":"e9e118e23a595fe947e6b7f3e0158091",
+				"ObjectMD5":"492e7ad1dc4e08fc4e7204308e995fca",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/mongolooker.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/mongolooker.plugin.dll",
@@ -401,7 +381,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"MultipleScanners",
-				"ObjectMD5":"24bd5e74ca33757e6bd27bf642712551",
+				"ObjectMD5":"5480a178283edc7a2f9ca92b198aa1ce",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/MultipleScanners.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.0",
 				"ObjectLocalName":"Plugins/MultipleScanners.plugin.dll",
@@ -411,7 +391,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"NetScanner",
-				"ObjectMD5":"3fb95628f5a9c611a05d8bba616d7469",
+				"ObjectMD5":"78c136d94c2b9c8221968e12d76edaa3",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/NetScanner.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/NetScanner.plugin.dll",
@@ -421,7 +401,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"NetworkTools",
-				"ObjectMD5":"ed21b3b2a301bd4377fff946bf09a3ac",
+				"ObjectMD5":"da9d99e2e458564d50a66d6543af5215",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/NetworkTools.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.4",
 				"ObjectLocalName":"Plugins/NetworkTools.plugin.dll",
@@ -431,7 +411,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"NSlookUp",
-				"ObjectMD5":"3c28dc7e388ee96f6bacb97985fd56d4",
+				"ObjectMD5":"9b8b9c03dc1e1ee298fc0abc02896740",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/NSlookUp.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/NSlookUp.plugin.dll",
@@ -441,7 +421,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"paramer",
-				"ObjectMD5":"be16c39c52c3e46c103c3cac03b8a08d",
+				"ObjectMD5":"45d28fdbffa6a6a7b8b373ef88410053",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/paramer.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/paramer.plugin.dll",
@@ -451,7 +431,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"PassiveDnsScrabber",
-				"ObjectMD5":"3874a0ea4447d1456cfeeebfee3d075e",
+				"ObjectMD5":"3d8fb0a70843076b0b12429e8d5fcff3",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/PassiveDnsScrabber.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/PassiveDnsScrabber.plugin.dll",
@@ -461,7 +441,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"PatternCreator",
-				"ObjectMD5":"a83695a3880d5d1747796e39731716af",
+				"ObjectMD5":"cb5499602abaeb0661255bbdd29ac24e",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/PatternCreator.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/PatternCreator.plugin.dll",
@@ -471,7 +451,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"PostMessage",
-				"ObjectMD5":"5b5fb9c4441abc6682c46d7c9ea3193f",
+				"ObjectMD5":"f01749ed949a178ba769b5035c5d7de1",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/PostMessage.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/PostMessage.plugin.dll",
@@ -481,7 +461,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"postmsghook",
-				"ObjectMD5":"8f89ae2a2c2018c0c9925c34fb2a7032",
+				"ObjectMD5":"484226d344f8857b0394c8d76d434131",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/postmsghook.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/postmsghook.plugin.dll",
@@ -491,7 +471,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"PyLoginBfcGenerator",
-				"ObjectMD5":"296e9502d37918dc5dae8a182a0297a8",
+				"ObjectMD5":"7db3159502c682a9a8544edf5d6f7c2a",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/PyLoginBfcGenerator.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.*",
 				"ObjectLocalName":"Plugins/PyLoginBfcGenerator.plugin.dll",
@@ -501,7 +481,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"RCEPayloads",
-				"ObjectMD5":"a4b0acb114ca079345a9228462bf9b73",
+				"ObjectMD5":"706648d868a79e3e6ceaaa15bc5769de",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/RCEPayloads.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/RCEPayloads.plugin.dll",
@@ -511,7 +491,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"RealIpScrabber",
-				"ObjectMD5":"7aea3813de79b045627cda12e32c9122",
+				"ObjectMD5":"d7211384f13c21fb0024a4fef8bc9b81",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/RealIpScrabber.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/RealIpScrabber.plugin.dll",
@@ -521,7 +501,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"repeater",
-				"ObjectMD5":"932960ef4e91afd5b6be1cfe8f28945d",
+				"ObjectMD5":"20713f05a76499b8f12ceba42f703418",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/repeater.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/repeater.plugin.dll",
@@ -531,7 +511,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"Resolver",
-				"ObjectMD5":"c7abddd2635288cd95b1183a518be7a3",
+				"ObjectMD5":"591b64a2a852fb83c066eb670cf4d180",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/Resolver.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/Resolver.plugin.dll",
@@ -541,7 +521,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"s3bucket",
-				"ObjectMD5":"ea56084530bca318de0f94756ba4f5a3",
+				"ObjectMD5":"b96eb9450f5912e263e5d204ce68969e",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/s3bucket.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.0",
 				"ObjectLocalName":"Plugins/s3bucket.plugin.dll",
@@ -551,7 +531,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"screenshotter",
-				"ObjectMD5":"c2a8e468b9f702d532174c79779dd94a",
+				"ObjectMD5":"29b5ce297c589e2b1db725558956a221",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/screenshotter.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/screenshotter.plugin.dll",
@@ -561,7 +541,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"secheadercheck",
-				"ObjectMD5":"b239c539154c166efef490a4ef08f551",
+				"ObjectMD5":"38d82b76d6a3dba1ae61c1492f3ae591",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/secheadercheck.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/secheadercheck.plugin.dll",
@@ -571,7 +551,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"serverredir",
-				"ObjectMD5":"e1d042dd7f4f432e8f48b7e13b980ce5",
+				"ObjectMD5":"ca23ad6ce11fee49ff70ef1ebcae7d0c",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/serverredir.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/serverredir.plugin.dll",
@@ -581,7 +561,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"SimpleCrypto",
-				"ObjectMD5":"98309f8fc24034e8203de8885493492c",
+				"ObjectMD5":"89a648eeafaba9e8a4507987202080cb",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/SimpleCrypto.Plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.0",
 				"ObjectLocalName":"Plugins/SimpleCrypto.Plugin.dll",
@@ -591,7 +571,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"sniffer",
-				"ObjectMD5":"73e02cc7302ee5875673777ec252bc96",
+				"ObjectMD5":"73ad2746d2b6c4db69ade623b6b4dc41",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/sniffer.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/sniffer.plugin.dll",
@@ -601,7 +581,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"Store",
-				"ObjectMD5":"cb2ea5487cb6901c24122fa6d9cf6a9f",
+				"ObjectMD5":"44ff95c2662e8b241034c91db74025ff",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/Store.Plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.0",
 				"ObjectLocalName":"Plugins/Store.Plugin.dll",
@@ -611,7 +591,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"Strings",
-				"ObjectMD5":"a7b4d2cbf82073658b50da9ae5552daf",
+				"ObjectMD5":"8a0aace8392247e9b57dc01bb6afb4e4",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/Strings.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/Strings.plugin.dll",
@@ -621,7 +601,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"SubList",
-				"ObjectMD5":"5d3a0dc05407cb14447d67acf4947876",
+				"ObjectMD5":"c369dc46c831b93e6b3abe917b676d6c",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/SubList.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/SubList.plugin.dll",
@@ -631,7 +611,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"tcpcat",
-				"ObjectMD5":"e3dd7dc9158c3e028701cb006bf02dc0",
+				"ObjectMD5":"d06a100fa1b5625839edaeb4cf0d45b0",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/tcpcat.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/tcpcat.plugin.dll",
@@ -641,7 +621,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"TcpServer",
-				"ObjectMD5":"6995e1abddce75eff24319375c8dbe02",
+				"ObjectMD5":"df320b8516ffddf968a8bc1f7a9234e9",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/TcpServer.Plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/TcpServer.Plugin.dll",
@@ -649,8 +629,6 @@
 				"ObjectDetail":"CazadorPlugins",
 				"ObjectRating":"0",
 				"objectPopularity":"0"},
-                
-				 
                 
 				{"ObjectName":"TextManipulator",
 				"ObjectMD5":"9ab58db7faf87c2d9bda5db89fc2cefa",
@@ -673,7 +651,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"Travislogftch",
-				"ObjectMD5":"4e3302f487da202c99ccd0eab794c443",
+				"ObjectMD5":"f4028f17f2d276ebeb9b6561d020cf6a",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/Travislogftch.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/Travislogftch.plugin.dll",
@@ -683,7 +661,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"TxtEditor",
-				"ObjectMD5":"14c9b32b2c7348c2592cd283f4c00f44",
+				"ObjectMD5":"fe4b0de05908118b2a2c119f3d3f0166",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/TxtEditor.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/TxtEditor.plugin.dll",
@@ -693,7 +671,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"urloader",
-				"ObjectMD5":"e6cb02d007c89345b4fc29b64c47381a",
+				"ObjectMD5":"9ffe553939f6d477589f7d7ae5643068",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/urloader.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/urloader.plugin.dll",
@@ -703,7 +681,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"WebForger",
-				"ObjectMD5":"8b9da774f25095f2562e512342940a45",
+				"ObjectMD5":"7b37504ebcaa31b92e3bc4c31a8b8b99",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/WebForger.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/WebForger.plugin.dll",
@@ -723,7 +701,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"websrcview",
-				"ObjectMD5":"246c0145b73b93240b2f735612c2cdcf",
+				"ObjectMD5":"2f0e11f5e999dbf1ec77ab3a70ce19a3",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/websrcview.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/websrcview.plugin.dll",
@@ -733,7 +711,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"WhoIs",
-				"ObjectMD5":"abb9959f3471063d7e443945360e1dde",
+				"ObjectMD5":"6eb8497f4a14a3dfd5a8d5f91c580e47",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/WhoIs.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/WhoIs.plugin.dll",
@@ -743,7 +721,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"Winalyzer",
-				"ObjectMD5":"b0bf3fcb2ad1e0a01b1959b53aa9c1cf",
+				"ObjectMD5":"0f98b6746979e1d4a61337d0bbc16095",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/Winalyzer.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/Winalyzer.plugin.dll",
@@ -753,7 +731,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"Xploits",
-				"ObjectMD5":"56c53fe777931dfc7c966413d1bb0e1f",
+				"ObjectMD5":"2878c1d99d354a558388fd3da25708a2",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/Xploits.plugin.dll",
 				"ObjectAssemblyVersion":"1.0.0.2",
 				"ObjectLocalName":"Plugins/Xploits.plugin.dll",
@@ -763,20 +741,10 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"CazadorApp",
-				"ObjectMD5":"0e2a6a608ab3bbe1bc67133d88be255c",
+				"ObjectMD5":"bc93aac8592768fad285db77ff8e1794",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/CazadorApp.exe",
 				"ObjectAssemblyVersion":"1.0.0.*",
 				"ObjectLocalName":"CazadorApp.exe",
-				"ObjectCategory":"Apps",
-				"ObjectDetail":"",
-				"ObjectRating":"0",
-				"objectPopularity":"0"},
-                
-				{"ObjectName":"launcher",
-				"ObjectMD5":"49b9b6aab28e3629a55f608852670745",
-				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/launcher.exe",
-				"ObjectAssemblyVersion":"1.0.0.0",
-				"ObjectLocalName":"launcher.exe",
 				"ObjectCategory":"Apps",
 				"ObjectDetail":"",
 				"ObjectRating":"0",
@@ -793,7 +761,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"CazGuiLib",
-				"ObjectMD5":"704f4d88ba90d9cfbcce06b3f469a664",
+				"ObjectMD5":"6f03c1d7468a768f06caa66c91a72c27",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/CazGuiLib.dll",
 				"ObjectAssemblyVersion":"1.0.0.11",
 				"ObjectLocalName":"CazGuiLib.dll",
@@ -803,7 +771,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"CazLib",
-				"ObjectMD5":"deeb187c53a4ead9e443c6c68b49200e",
+				"ObjectMD5":"c803c02aab31eed4218bcbc4da47df96",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/CazLib.dll",
 				"ObjectAssemblyVersion":"1.0.0.1",
 				"ObjectLocalName":"CazLib.dll",
@@ -871,7 +839,6 @@
 				"ObjectDetail":"",
 				"ObjectRating":"0",
 				"objectPopularity":"0"}
-                 
 			
 		]
 }
