@@ -9,6 +9,8 @@
 		[
 		        
                 
+				 
+                
 				{"ObjectName":"ARSoft.Tools.Net",
 				"ObjectMD5":"939df139496ef2523caf86810a06d321",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/ARSoft.Tools.Net.dll",
@@ -73,8 +75,7 @@
 				"ObjectPushDate":"12/29/2020",
 				"ObjectDetail":"",
 				"ObjectRating":"0",
-				"objectPopularity":"0"}        
-			          
+				"objectPopularity":"0"}
 				 
 		]
 }
