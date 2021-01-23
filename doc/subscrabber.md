@@ -40,5 +40,5 @@ This tool will allow you to enumerate a list of available sub domains for your t
  
 
 
-[Check other tools](https://github.com/cazadorsuite)
+[Check other tools](https://github.com/YasserGersy/cazador_unr/tree/master/doc)
 
