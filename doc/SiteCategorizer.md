@@ -1,4 +1,6 @@
 Hi
+
+
  This tool allows you to automate sites categorization  using multiple APIS.
 
 
@@ -44,7 +46,8 @@ You can provide api token by following :
 
 **Default Behaviur**:
 
- The tool considers the performance , best result , unnecessary traffic , the tool allows users to use multiple providers , the current configurations instruct the tool to fetch cached values first , if not found it will use any enabled available provider to get the request site category.
+ The tool considers the performance , best result , unnecessary traffic , the tool allows users to use multiple providers , the current configurations instruct the tool to fetch cached values first , if not found it will use any enabled available provider to get the requested site's category.
  
 The caching process can not be turned off ,the application caches all values to avoid multiple requests , however you can specify if you want a cached category or a fresh one.
+
 Good Luck
