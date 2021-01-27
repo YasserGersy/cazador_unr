@@ -22,7 +22,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"CazLib",
-				"ObjectMD5":"bad5aed4ae7bd19b226d1600afaef3bb",
+				"ObjectMD5":"b722c793130d0e42400ca297cf83ee7d",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/CazLib.dll",
 				"ObjectVersion":"1.0.0.0",
 				"ObjectLocalName":"CazLib.dll",
@@ -352,7 +352,7 @@
 				"objectPopularity":"0"},
                 
 				{"ObjectName":"SiteCategorizer",
-				"ObjectMD5":"1df0dfcf63b5a24c84d970135dbc3dc2",
+				"ObjectMD5":"5a1a795e495e4c8d9cef77851658783e",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/SiteCategorizer.Plugin.dll",
 				"ObjectVersion":"1.0.0.0",
 				"ObjectLocalName":"Plugins/SiteCategorizer.Plugin.dll",
