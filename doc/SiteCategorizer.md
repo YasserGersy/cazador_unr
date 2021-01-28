@@ -3,6 +3,7 @@ Hi
 
  This tool allows you to automate sites categorization  using multiple APIS.
 
+- ![Damaged pdf file](https://github.com/YasserGersy/cazador_unr/raw/master/imgs/SiteCat3.png?raw=true)
 
 **Video**
 
@@ -42,7 +43,7 @@ If a provider requires Api token and the token is not found , the plugin will hi
 
 You can provide api token by following :
 
- - ![Damaged pdf file](https://github.com/YasserGersy/cazador_unr/raw/master/imgs/SiteCat3.png?raw=true)
+ - ![Damaged pdf file](https://github.com/YasserGersy/cazador_unr/raw/master/imgs/SiteCat5.png?raw=true)
 
 **Default Behaviur**:
 
