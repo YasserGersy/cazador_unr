@@ -230,7 +230,7 @@
 				"ObjectRating":"0",
 				"objectPopularity":"0"},
                 
-				{"ObjectName":"httpinger",
+				{"ObjectName":"Httpinger",
 				"ObjectMD5":"bd69c84a83b48b88d3aafb89f6a8f862",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/httpinger.plugin.dll",
 				"ObjectVersion":"1.0.0.0",
@@ -472,7 +472,7 @@
 				"ObjectRating":"0",
 				"objectPopularity":"0"},
                 
-				{"ObjectName":"urloader",
+				{"ObjectName":"Urloader",
 				"ObjectMD5":"4d513d0628b51b64a7dccbec016050e3",
 				"ObjectLink":"https://raw.githubusercontent.com/YasserGersy/cazador_unr/master/Compiled/Plugins/urloader.plugin.dll",
 				"ObjectVersion":"1.0.0.0",
@@ -537,7 +537,6 @@
 				"ObjectDetail":"",
 				"ObjectRating":"0",
 				"objectPopularity":"0"}
-				 
 				 
 		]
 }
