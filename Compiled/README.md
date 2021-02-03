@@ -1,1 +1,1 @@
-This directory contains a compiled version of the app
+This directory contains a compiled version of the app and plugins
