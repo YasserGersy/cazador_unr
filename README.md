@@ -8,9 +8,7 @@
 [![Follow on Twitter](https://img.shields.io/twitter/follow/YasserGersy.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=YasserGersy)
 
 
-**Cazador**
-
-CazadorApp itself does not contain any tools , however the built plugins contain the following :
+ 
 
 
 # Tools
