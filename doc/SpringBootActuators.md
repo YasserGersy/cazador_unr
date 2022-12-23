@@ -29,6 +29,34 @@ Endpoints:
 /actuator/trace
 ```
 
+Other End-points [from docs.spring.io](https://docs.spring.io/spring-boot/docs/current/reference/html/actuator.html#actuator.endpoints) : 
+
+```
+/logfile
+/prometheus
+/heapdump
+/threaddump
+/startup
+/shutdown
+/sessions
+/scheduledtasks
+/quartz
+/mappings
+/metrics
+/liquibase
+/loggers
+/integrationgraph
+/info
+/httpexchanges
+/health
+/flyway
+/env
+/configprops
+/conditions
+/caches
+/beans
+/auditevents
+```
 
 Shodan
 ```
