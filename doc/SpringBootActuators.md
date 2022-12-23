@@ -30,6 +30,11 @@ Endpoints:
 ```
 
 
+Shodan
+```
+org:YOUR_TARGET http.favicon.hash:116323821
+```
+
 REF:
 
 ```
