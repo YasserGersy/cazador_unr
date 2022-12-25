@@ -5,19 +5,6 @@ Each individual endpoint can be enabled or disabled and exposed over `HTTP` or `
 Interesting Endpoints:
 
 ```
-/autoconfig
-/beans/
-/configprops/
-/dump
-/heapdump
-/env/
-/health
-/info
-/loggers/
-/mappings/
-/metrics/
-/shutdown
-/trace
 /actuator/autoconfig
 /actuator/beans/
 /actuator/configprops/
